@@ -1,4 +1,4 @@
-# Codigo Fuente Servidor Argentum Online.
+# Codigo Fuente Servidor Argentum Online. 
 <img alt="GitHub" src="https://img.shields.io/github/license/ao-libre/ao-server?style=for-the-badge">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ao-libre/ao-server?style=for-the-badge">
 <img alt="Discord" src="https://img.shields.io/discord/479056868707270657?label=Discord&style=for-the-badge">
